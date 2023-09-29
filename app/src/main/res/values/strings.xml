@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Flightraction</string>
+
+    <!-- Text for mainscreen -->
+    <string name="searchbar_text">Søk på flynummer/flyplass</string>
+    <string name="unknown">Ukjent</string>
+    <string name="map_content_description">Kart over Norge med de største flyplassene og aktive fly</string>
+
+    <!-- Text for weather-menus (airport/flight) -->
+    <string name="forecast_for">værmelding for</string>
+    <string name="no_temperature">Ukjent temperatur</string>
+    <string name="no_windstrength">Ukjent vindstyrke</string>
+    <string name="windstrength_measurement_ms">m/s</string>
+    <string name="rainfall">Nedbør:</string>
+    <string name="rain_measurement_mm">mm</string>
+    <string name="show_detailed_forecast">Vis detaljert værmelding for flygeleder</string>
+    <string name="hide_detailed_forecast">Skjul detaljert værmelding</string>
+    <string name="no_data_available">Ikke tilgjengelig data</string>
+    <string name="weather_under_flight">Været under flyet akkurat nå:</string>
+
+    <!-- Text for flight-info-menu (flight) -->
+    <string name="unknown_foreign_airport">Ukjent/utenlandsk lufthavn</string>
+    <string name="to">Til</string>
+    <string name="departure">Avgang: </string>
+    <string name="arrival">Ankomst: </string>
+
+    <!-- Airlines -->
+    <string name="airline_british_airways">British Airways</string>
+    <string name="airline_icelandair">Icelandair</string>
+    <string name="airline_klm">KLM</string>
+    <string name="airline_norwegian">Norwegian</string>
+    <string name="airline_sas">SAS</string>
+    <string name="airline_turkish_airlines">Turkish Airlines</string>
+    <string name="airline_united_airlines">United Airlines</string>
+    <string name="airline_wideroe">Wideroe</string>
+
+    <!-- Text for airport-overview (airport) -->
+    <string name="departures">Avganger</string>
+    <string name="arrivals">Ankomster</string>
+    <string name="attractions">Attraksjoner</string>
+    <string name="forecast">Værmelding</string>
+
+    <!-- Text for departure/arrival-menu (airport) -->
+    <string name="arrivals_for">ankomster for</string>
+    <string name="departures_for">avganger for</string>
+    <string name="no_departures_show">Ingen avganger å vise for valgt sted</string>
+    <string name="no_arrivals_to_show">Ingen ankomster å vise for valgt sted</string>
+    <string name="for_today">For i dag:</string>
+
+    <!-- Text for attraction-menu (airport) -->
+    <string name="attraction_header">Attraksjoner rundt</string>
+    <string name="no_attractions_to_show">Ingen attraksjoner å vise for valgt sted</string>
+    <string name="loading">Laster inn innhold…</string>
+    <string name="loading_error">Innlasting av inn innhold feilet</string>
+
+
+    <!-- Text for errorscreen -->
+    <string name="error_on_loading">Feil under innlasting</string>
+    <string name="app_failed_to_load_check_connection">Appen klarte ikke å laste inn fly.</string>
+    <string name="cancel_the_app_and_retry">Avslutt appen, sjekk tilkoblingen din og prøv på nytt.</string>
+
+    <!-- Text for helpscreen -->
+    <string name="header_helpscreen">Bruksanvisning</string>
+    <string name="choose_following">Velg én av følgende:</string>
+    <string name="press_flight">Trykk på et fly på kartet</string>
+    <string name="press_airport">Trykk på en flyplass på kartet</string>
+    <string name="search_flightnumber">Søk på et flynummer</string>
+    <string name="search_airport">Søk på en flyplass</string>
+    <string name="thereafter">Deretter:</string>
+    <string name="click_on">Klikk på:</string>
+    <string name="icons">Ikoner:</string>
+    <string name="or">eller</string>
+    <string name="frames">Rammer:</string>
+
+    <!-- Text for sigchartsscreen -->
+    <string name="not_weather_to_show">Kunne ikke finne vær-oversikten.</string>
+    <string name="try_again_later">Prøv igjen senere.</string>
+    <string name="info_sigcharts">Dette er et værkart som brukes innen luftfart for å vise
+    værfenomener som kan påvirke flysikkerheten.
+    \n\nKartet gir informasjon om ulike værelementer, for eksempel skydekke, turbulens, ising og mer.
+    \n\nOversikten oppdateres hver 6. time (kl. 00, 06, 12, 18).</string>
+
+    <!-- Descriptions for buttons -->
+    <string name="exit_button">Knapp for lukking av side/meny</string>
+    <string name="arrow_button">Pil-knapp</string>
+    <string name="back_button">Tilbake-knapp</string>
+    <string name="departure_button">Knapp for avgangsmeny</string>
+    <string name="arrival_button">Knapp for ankomstmeny</string>
+    <string name="attraction_button">Knapp for attraksjonsmeny</string>
+    <string name="weather_button">Knapp for værmeny</string>
+    <string name="help_button">Knapp for å vise instruksjoner for app</string>
+    <string name="sigchart_button">Knapp for å vise værkart</string>
+    <string name="plane_button">Knapp for å vise informasjon om flygning.</string>
+    <string name="weather_for_fligth_button">Knapp for å vise vær under flyet.</string>
+    <string name="remove_text_button">Knapp for å fjerne tekst i søkefelt</string>
+
+    <!-- Descriptions other elements -->
+    <string name="grid_desc">Rutenett med ulike undermenyer for flyplass.</string>
+    <string name="icon_warning">Advarsel-ikon</string>
+    <string name="icon_search">Søke-ikon</string>
+    <string name="plane_button_example">Eksempel på et knappe-ikon fra hovedskjermen.</string>
+    <string name="question_illustration">Spørsmålstegn illustrasjon</string>
+    <string name="sigchart_desc">Værkart over værfenomener i Norge</string>
+    <string name="picture_of">a picture of/from</string>
+</resources>

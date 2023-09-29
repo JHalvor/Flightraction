@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_brown_outer_stroke">#9F9583</color>
+    <color name="dark_brown_outer_stroke">#5B5348</color>
+    <color name="icon_stroke">#5B5348</color>
+    <color name="beige_filling">#faf6ef</color>
+    <color name="airport_marker_color">#FA7453</color>
+    <color name="flight_marker_color">#FFFFFF</color>
+
+    <!-- For icon details -->
+    <color name="light_yellow">#FFEF86</color>
+    <color name="light_green">#acd683</color>
+    <color name="light_orange">#ffc859</color>
+</resources>
